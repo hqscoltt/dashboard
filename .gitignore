@@ -1,0 +1,15 @@
+# dependencies and build output
+node_modules/
+dist/
+.vite/
+
+# local-only files (personal Claude Code rules, editor and OS clutter)
+CLAUDE.local.md
+*.local
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
